@@ -1,0 +1,8 @@
+void main()
+{ 
+	int sum = 8;
+	cout << sum;
+	if(sum==8 & sum!=7){
+		cout << 7;
+	}
+}
